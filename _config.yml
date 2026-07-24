@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jaemin
 middle_name: 
 last_name: Sim
-contact_note: > # You can even add a little note about which of these is the best way to reach you.
-description: > # 검색엔진(구글 등)에서 사이트를 검색했을 때 미리보기 문구 the ">" symbol means to ignore newlines until "footer_text:"
+contact_note: 
+description: 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: 
