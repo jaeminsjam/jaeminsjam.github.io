@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: jaemin.jpg
+  image: jam.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
