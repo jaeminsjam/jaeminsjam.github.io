@@ -29,6 +29,8 @@ My research interests lie at the nexus of decision science, health economics, an
 
 My recent work focuses on how data immaturity affects survival analysis and decision modeling accuracy. I also have experience with causal inference methods for observational data and survey research using preference-based outcome measures. 
 
-I completed my Master's degree in Industrial Pharmaceutical Science (supervised by Seungjin Bae) and my Pharm.D. at Ewha W. University. During the undergraduate studies, I worked on developing a mouse model of ALD/MASLD-associated liver cancer. Beyond my academic pursuits, I enjoy practicing Pilates, traveling, and volunteering at the Raphael Clinic in Seoul.
+I completed my Master's degree in Industrial Pharmaceutical Science (supervised by Seungjin Bae) and my Pharm.D. at Ewha W. University. During the undergraduate studies, I worked on developing a mouse model of ALD/MASLD-associated liver cancer. 
+
+Beyond my academic pursuits, I enjoy practicing Pilates, traveling, and volunteering at the Raphael Clinic in Seoul.
 
 Feel free to reach out if you'd like to chat about any of the above! Here are my [CV](https://jaeminsjam.github.io/cv/).
